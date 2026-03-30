@@ -1,0 +1,15 @@
+# ===== 忽略不需要的 =====
+__pycache__/
+*.pyc
+.idea/
+checkpoints/
+HF/
+model/
+optimed_GPT_ckpt/
+runs/
+*.pth
+*.txt
+*.json
+.env
+
+# ===== 关键：只忽略这些，不要用 * =====
